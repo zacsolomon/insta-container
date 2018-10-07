@@ -11,4 +11,4 @@ to use in exercises when teaching cyber security concepts as SysAdmin for SDSU's
 
 
 
-* insert shameless plug for the Cyber Defense Team: https://https://cyberdefenseteam.sdsu.edu*
+* insert shameless plug for the Cyber Defense Team: https://https://cyberdefenseteam.sdsu.edu
